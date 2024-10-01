@@ -1,13 +1,6 @@
 # DayGrid
 
 일정을 기록할 수 있고 다이어리도 남길 수 있는 캘린더 어플리케이션, DayGrid 입니다.<br/><br/>
-<strong>배포주소</strong><br/> http://daygrid.s3-website.ap-northeast-2.amazonaws.com/info<br/>
-<br/>
-<strong>테스트 계정</strong>
-<br/>
-ID : test@test.com
-<br/>
-PASSWORD: 12341234
 <br/>
 <br/>
 
